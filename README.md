@@ -4,7 +4,7 @@ For this assignment you are tasked with developing an application that makes use
 
 &nbsp;The final application should be delivered via a functioning interactive GUI built using Tkinter. This GUI should allow the user to interact via mouse and/or keyboard input.
 
-You are required to use one of the APIs listed below*:
+You are required to use one of the APIs listed below:
 - The Movie DB: https://developer.themoviedb.org/*
 - Discogs: https://www.discogs.com/developers*
 - Rest Countries: https://restcountries.com/
