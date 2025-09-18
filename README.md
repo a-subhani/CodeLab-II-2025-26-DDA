@@ -8,7 +8,6 @@ You are required to use one of the APIs listed below*:
 - The Movie DB: https://developer.themoviedb.org/*
 - Discogs: https://www.discogs.com/developers*
 - Rest Countries: https://restcountries.com/
-- Currency API: https://freecurrencyapi.com/*
 - Open Trivia: https://opentdb.com/
 - Pokemon API: https://pokeapi.co/
 - Harry Potter API: https://potterdb.com/
